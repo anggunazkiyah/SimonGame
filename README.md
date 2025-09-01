@@ -4,9 +4,7 @@ A web-based implementation of the classic Simon memory game using HTML, CSS, Jav
 
 ## 🌐 Demo
 
-🎮 **[Play the Game Here](https://anggunakiyah.github.io/SimonGame)**
-
-*Replace with your actual demo URL when you deploy the game*
+🎮 **[Play the Game Here](https://anggunazkiyah.github.io/SimonGame/)**
 
 ## 🎮 How to Play
 
